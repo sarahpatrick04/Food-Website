@@ -1,0 +1,96 @@
+
+
+body {
+color:#F2F2F2;
+font-family: 'Open Sans', sans-serif;
+font-size: 13px;
+line-height: 15px;
+   }
+
+h1 {
+  color: #F2F2F2;
+  font-family: 'Raleway', sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  opacity: 0.5;
+  line-height: 78px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  margin-left: 57px;
+  }
+
+h2 {
+font-family: 'Open Sans', sans-serif;
+font-size: 35px;
+line-height: 143px;
+margin-top: 2px;
+opacity: 0.8;
+margin-bottom: -42px;
+margin-left: 21px;
+  }
+
+.wrapper {
+ background: url("Images/background.jpg") no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+border-radius: 10px;
+background-color: #CCBAB6;
+opacity: 0.9;
+width: 710px;
+margin: 20px auto;
+padding: 20px 187px;
+line-height: 29px;
+}
+
+a:hover {
+text-decoration: none;
+color: #2F4F4F;
+font-family: 'Open Sans', sans-serif;
+font-weight: 600
+font-size: 20px;
+text-align: center;
+background-color: #EBC5C5; 
+
+}
+
+
+
+nav li {
+list-style-type:none;
+display: inline-block;
+margin: 20px auto;
+padding: 8px 45px 5px 34px;
+
+
+
+}
+
+nav ul li a {
+display: block;
+border-radius: 15px;
+text-decoration: none;
+color: #9C3A3A;
+font-family: 'Open Sans', sans-serif;
+font-weight: 600
+font-size: 20px;
+background-color: #B9E4F0;
+opacity: 0.9;
+padding: 5px;
+transition: all .5s;
+text-align: center;
+margin: 5px auto;
+
+
+ {
+
+
+
+
+
+
+  
+
+
+  
