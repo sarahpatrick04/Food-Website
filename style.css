@@ -1,5 +1,10 @@
 body {
-color:#F2F2F2;
+ background: url("Images/background.jpg") no-repeat fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color:#006699;
 font-family: 'Open Sans', sans-serif;
 font-size: 14px;
 background-color: #e1f7fd;
@@ -7,25 +12,25 @@ background-color: #e1f7fd;
    }
    
    .wrapper {
- background: url("Images/background.jpg") no-repeat center center fixed; 
+ background: url("Images/backgroundblurry.png") no-repeat fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
 background-color: #CCBAB6;
-opacity: 0.9;
-border-radius: 8px;
+border-radius: 2px;
 width: 720px;
 height: auto;
+opacity: .9;
 margin: auto;
-padding: 20px 187px;
+padding: 11px 323px 41px;
 }
 
 
 h1 {
 display: block;
-position: right;
-top: auto;
+position: relative;
+margin: -101px 10px 25px -20px;
 left: auto;
 background-image:url("Images/climbthetree.png");
 width: 500px;
@@ -34,11 +39,13 @@ height: 168px;
 }
 
 .content {
-	background-color:#3EA9C9;
+	background-color:#cccccc;
 	border-radius: 8px;
 	margin: 0 auto;
 	padding: 80px 106px 80px 106px;
 }
+
+
 
 
 .header {
@@ -57,22 +64,23 @@ height: 168px;
 	}
 	
 h2 {
-color: #5b483d;
+color: #F2F2F2;
 font-family: 'Open Sans', sans-serif;
   font-size: 35px;
   padding: 20px;
   font-weight: 600;
   line-height: 0;
+  opacity: 0.7;
   margin-left: -8px;
   margin-right: -106px;
   border-radius: 0px;
-  background-color: #bde1e9;
+  background-color: #006699;
   text-align: inherit;
   
    }
 
 h3 {
-color: #F2F2F2;
+color: #006699;
 font-family: 'Open Sans', sans-serif;
   font-size: 17px;
   font-weight: 300;
@@ -83,7 +91,7 @@ font-family: 'Open Sans', sans-serif;
   }
 	  
 p {
-color:#F2F2F2;
+color:#006699;
 font-family: 'Open Sans', sans-serif;
 font-size: 15px;
 line-height:24px;
@@ -132,11 +140,11 @@ padding: 32px 10px;
 nav ul li a {
 display: block;
 text-decoration: none;
-color: #5b483d;
+color: #FFFFFF;
 font-family: 'Raleway', sans-serif;
 font-weight: 600;
 font-size: 17px;
-background-color: #B9E4F0;
+background-color: #006699;
 padding: 10px;
 transition: all .5s;
 text-align: center;
@@ -144,7 +152,10 @@ margin: 10px auto;
 }
 
 
+chocolate {
+margin:38px 88px -1px;
 
+{
 
 
 
